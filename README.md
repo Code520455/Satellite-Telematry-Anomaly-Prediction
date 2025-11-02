@@ -4,7 +4,7 @@
 This project focuses on detecting anomalies in satellite telemetry data using machine learning models.  
 By analyzing sensor readings (`segments.csv`) and engineered features (`dataset.csv`), the system learns to classify whether a given telemetry segment is **normal** or **anomalous**.  
 
-The solution leverages **Python**, **Pandas**, **Scikit-Learn**, **XGBoost**, **LightGBM**, and **TensorFlow** for data preprocessing, exploratory data analysis (EDA), and predictive modeling.
+The solution leverages **Python**, **Pandas**, **Scikit-Learn**, **XGBoost**, **LightGBM** for data preprocessing, exploratory data analysis (EDA), and predictive modeling.
 
 ---
 
