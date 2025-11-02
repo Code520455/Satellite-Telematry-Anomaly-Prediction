@@ -64,9 +64,7 @@ Contains engineered segment-level features for modeling.
 Models used include:
 - **Random Forest Classifier**
 - **XGBoost**
-- **LightGBM**
-- **CatBoost**
-- **TensorFlow-based Neural Network**
+
 
 ### 4. Evaluation Metrics
 - **Accuracy Score**
