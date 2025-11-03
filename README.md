@@ -1,4 +1,4 @@
-# Satellite-Telematry-Anomaly-Prediction
+# Satellite-Telemetry-Anomaly-Prediction
 
 ## Overview
 This project focuses on detecting anomalies in satellite telemetry data using machine learning models.  
@@ -78,3 +78,8 @@ Models used include:
 ### Python Libraries
 Install dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm catboost tensorflow jupyterlab
+
+
+## Result
+- From the analysis I found that there is a high correlation in these features Variance(var), peaks(diff_peaks,   smooth20_n_peaks) and higher order difference (diff2_var) with anomalies.
+- 
